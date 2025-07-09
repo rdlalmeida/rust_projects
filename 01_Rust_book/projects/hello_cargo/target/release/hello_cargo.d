@@ -1,1 +1,0 @@
-/home/ricardoalmeida/github_projects/rust_projects/01_Rust_book/projects/hello_cargo/target/release/hello_cargo: /home/ricardoalmeida/github_projects/rust_projects/01_Rust_book/projects/hello_cargo/src/main.rs
